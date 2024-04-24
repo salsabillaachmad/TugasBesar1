@@ -43,7 +43,6 @@
         android:background="@drawable/group_361"
         android:fontFamily="@font/montserrat"
         android:onClick="login"
-        android:text="Login"
         android:textAllCaps="false"
         android:textColor="#FFFFFF"
         android:textSize="18sp"
@@ -52,7 +51,7 @@
         app:layout_constraintHorizontal_bias="0.549"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0"
+        app:layout_constraintVertical_bias="0.966"
         tools:ignore="HardcodedText,MissingConstraints,Onclick,UsingOnClickInXml" />
 
     <Button
@@ -65,7 +64,6 @@
         android:background="@drawable/group_362"
         android:fontFamily="@font/montserrat"
         android:onClick="regis"
-        android:text="Register"
         android:textAllCaps="false"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
