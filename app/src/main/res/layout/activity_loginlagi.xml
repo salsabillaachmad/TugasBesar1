@@ -36,7 +36,7 @@
         android:layout_centerHorizontal="true"
         android:background="@drawable/group6"
         android:fontFamily="@font/montserrat"
-        android:onClick="login"
+        android:onClick="loginnn"
         android:textAllCaps="false"
         android:textColor="#FFFFFF"
         android:textSize="18sp"
@@ -92,7 +92,7 @@
         tools:ignore="HardcodedText,MissingConstraints" />
 
     <ImageView
-        android:id="@+id/imageView16"
+        android:id="@+id/panah"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="kembali"

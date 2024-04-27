@@ -37,4 +37,8 @@ public class halaman_login extends AppCompatActivity {
         Intent kembali = new Intent(halaman_login.this, halaman2.class);
         startActivity(kembali);
     }
+    public void pencet (View view){
+        Intent pencet = new Intent(halaman_login.this, hal5.class);
+        startActivity(pencet);
+    }
 }
